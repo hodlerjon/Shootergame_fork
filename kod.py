@@ -17,6 +17,10 @@ for i in range(1, len(even_numbers)):
     
 for i in range(1, len(odd_number)):
     print(odd_number[i], end = ' ')
+
+
+def main():
+    print('Hello world')
     
         
 
